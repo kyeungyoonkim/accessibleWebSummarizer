@@ -1,1 +1,1 @@
-# webextension
+# Accessible Web Summarizer
